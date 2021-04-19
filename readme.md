@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on Tanca of support analyst
 
-- 🌱 I’m currently learning **Node, JavaScript, HTML, CSS, SQL, MONGODB**
+- 🌱 I’m currently learning **Node, JavaScript, HTML5, CSS3, SQL, MONGODB**
 
 - 📫 How to reach me **andrevieira_@outlook.com**
