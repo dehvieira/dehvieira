@@ -1,14 +1,12 @@
-<h1 align="center">Hey  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I'm André Vieira</h1>
-<h3 align="center">Venturing into web programming... 
-</h3>
+<h1 align="center">E ae !   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Me chamo André Vieira</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
-<p align="left"> Graduated in Analysis and Systems Development at FATEC Presidente Prudente, São Paulo - Brazil, studying the most current languages ​​for web development.
+<p align="left"> Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, estudando as linguagens mais atuais para desenvolvimento web..
 </p>
 
-- 🔭 I’m currently working on Tanca of support analyst
+- 🔭 Atualmente estou trabalhando na empresa Tanca como analista de suporte III
 
-- 🌱 I’m currently learning **Node, JavaScript, HTML5, CSS3, SQL, MONGODB**
+- 🌱 Buscando aprender **Node, JavaScript, HTML5, CSS3, SQL, MONGODB**
 
-- 📫 How to reach me **andrevieira_@outlook.com**
+- 📫 Entre em contato comigo através do e-mail **andrevieira_@outlook.com**
