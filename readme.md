@@ -7,6 +7,6 @@
 
 - 🔭 Atualmente estou trabalhando na empresa Tanca como analista de suporte III
 
-- 🌱 Buscando aprender **Node, JavaScript, HTML5, CSS3, SQL, MONGODB**
+- 🌱 Buscando aprender **JavaScript, HTML5, CSS3, SQL, MONGODB**
 
 - 📫 Entre em contato comigo através do e-mail **andrevieira_@outlook.com**
