@@ -5,7 +5,7 @@
 <p align="left"> Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, estou estudando algumas linguagens para desenvolvimento web
 </p>
 
-- 🔭 Atualmente estou trabalhando na empresa Tanca como analista de suporte III
+- 🔭 Atualmente estou trabalhando na empresa Tanca como analista de suporte 
 
 - 🌱 Buscando aprender **JavaScript, HTML5, CSS3, SQL, MONGODB**
 
