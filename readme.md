@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
-<p align="justify">
+<p align="left">
  :computer: &nbsp; Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, sigo estudando algumas linguagens para desenvolvimento Web Front-End, rumo ao próximo nível 🚀
 </p>
 
