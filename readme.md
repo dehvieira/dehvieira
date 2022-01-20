@@ -1,6 +1,6 @@
-<h3> align="left">Sou o André Vieira</h3>
+<h3 align="left">Sou o André Vieira</h3>
 
-<p> align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
 <p align="left">
  Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, sigo estudando algumas linguagens para desenvolvimento Web Front-End, rumo ao próximo nível 🚀
@@ -23,4 +23,4 @@
  <div>
   <a href="https://www.linkedin.com/in/andrevieira3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-</div>
+ </div>
