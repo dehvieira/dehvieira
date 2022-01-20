@@ -8,8 +8,6 @@
 
 - 🔭 Atualmente sou analista de desenvolvimento de produtos na empresa Tanca 
 
-- 📫 Entre em contato comigo através do e-mail **andrevieira_@outlook.com**
-
 ##
 
 <div style="display: inline_block"><br>
