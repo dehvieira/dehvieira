@@ -1,4 +1,4 @@
-<h1 align="center">Sou o André Vieira</h1>
+<h1 align="left">Sou o André Vieira</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
