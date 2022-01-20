@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
 <p align="left">
- Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, sigo estudando algumas linguagens para desenvolvimento Web Front-End, rumo ao próximo nível 🚀
+ :computer: &nbsp; Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, sigo estudando algumas linguagens para desenvolvimento Web Front-End, rumo ao próximo nível 🚀
 </p>
 
 - 🔭 Atualmente sou analista de desenvolvimento de produtos na empresa Tanca 
