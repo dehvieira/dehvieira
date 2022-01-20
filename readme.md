@@ -1,6 +1,6 @@
-<h1 align="left">Sou o André Vieira</h1>
+<h3> align="left">Sou o André Vieira</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
+<p> align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
 <p align="left">
  Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, sigo estudando algumas linguagens para desenvolvimento Web Front-End, rumo ao próximo nível 🚀
