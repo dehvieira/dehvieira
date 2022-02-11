@@ -1,12 +1,12 @@
-<h3 align="left">Sou o André Vieira</h3>
+<h3 align="left">I'm André</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
 <p align="left">
- :computer: &nbsp; Me formei em Análise e Desenvolvimento de Sistemas pela FATEC Presidente Prudente, São Paulo - Brasil, sigo estudando algumas linguagens para desenvolvimento Web Front-End, rumo ao próximo nível 🚀
+ :computer: &nbsp; I graduated in Systems Analysis and Development at FATEC Presidente Prudente, São Paulo - Brazil, I'm still studying some languages ​​for Web Front-End development, towards the next level 🚀
 </p>
 
-- 🔭 Atualmente sou analista de desenvolvimento de produtos na empresa Tanca 
+- 🔭 I am currently a product development analyst
 
 ##
 
@@ -18,9 +18,7 @@
   <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-##
-
  <div>
-  <a href="https://www.linkedin.com/in/andrevieira3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andrevieira3/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
  </div>
