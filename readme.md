@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehvieira" alt="andrevieira" /> </p>
 
-<iframe src="https://giphy.com/embed/L3Vca26EaTIEU" width="320" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mic-processing-programming-L3Vca26EaTIEU">via GIPHY</a></p>
-
 <p align="left">
  :computer: &nbsp; I graduated in Systems Analysis and Development at FATEC Presidente Prudente, São Paulo - Brazil, I'm still studying some languages ​​for Web Front-End development, towards the next level 🚀
 </p>
